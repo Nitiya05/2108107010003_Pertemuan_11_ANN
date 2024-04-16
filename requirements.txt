@@ -1,0 +1,7 @@
+Python 2.15.0
+pandas
+matplotlib
+numpy
+seaborn
+sklearn
+tensorflow 2.15.0
